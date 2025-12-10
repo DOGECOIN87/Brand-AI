@@ -1,0 +1,5 @@
+{
+  "name": "Icon AI Assistant",
+  "description": "An AI-powered tool to discover, filter, and generate SVG code for icons using natural language queries and the Simple Icons dataset.",
+  "requestFramePermissions": []
+}
